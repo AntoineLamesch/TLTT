@@ -114,7 +114,7 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   transition: all 0.2s ease;
 }
 .btn-main:hover, .btn-small:hover, .btn-transparent:hover {
-  background: #FFFBBB;
+  background: #007bff;
   color: #fff;
 }
 
@@ -124,18 +124,18 @@ input[type=email]:focus, input[type=password]:focus, input[type=text]:focus, inp
   color: #242424;
 }
 .btn-solid-border:hover {
-  border: 2px solid #FFFBBB;
-  background: #FFFBBB;
+  border: 2px solid #007bff;
+  background: #007bff;
 }
 
 .btn-transparent {
   background: transparent;
   padding: 0;
-  color: #FFFBBB;
+  color: #007bff;
 }
 .btn-transparent:hover {
   background: transparent;
-  color: #FFFBBB;
+  color: #007bff;
 }
 
 .btn-large {
@@ -289,7 +289,7 @@ a {
 }
 
 a:focus, a:hover {
-  color: #FFFBBB;
+  color: #007bff;
   text-decoration: none;
 }
 
@@ -475,7 +475,7 @@ div.u_info_isCo a{
   margin-left: -8px;
 }
 .header-top .header-top-socials a {
-  color: #FFFBBB;
+  color: #007bff;
   margin-right: 8px;
   font-size: 16px;
   padding: 0 8px;
@@ -577,7 +577,7 @@ div.u_info_isCo a{
 .dropdown-submenu:hover > .dropdown-item,
 .dropdown-item.active,
 .dropdown-item:hover {
-  background: #FFFBBB;
+  background: #007bff;
   color: #fff;
 }
 
