@@ -1,0 +1,94 @@
+28/09/2022 14:33:29            SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+28/09/2022 14:33:30            SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+28/09/2022 14:34:34            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:34:45            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:34:46            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:34:46            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:34:46            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:34:46            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:34:46            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:34:46            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:34:46            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:34:47            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:34:47            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:35:53            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:36:53            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:37:00            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:37:00            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:37:01            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:37:48            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:37:49            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:38:13            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+28/09/2022 14:38:47            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+28/09/2022 14:39:31            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+28/09/2022 14:39:31            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+28/09/2022 14:39:32            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+28/09/2022 14:39:32            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+28/09/2022 14:39:32            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+28/09/2022 14:39:32            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+28/09/2022 14:39:32            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+28/09/2022 14:39:32            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+28/09/2022 14:39:33            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+28/09/2022 14:40:25            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+28/09/2022 14:40:59            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:41:18            SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+28/09/2022 14:41:53            SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+28/09/2022 14:42:12            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: 'root;
+'@'@localhost' (mot de passe: OUI)
+28/09/2022 14:42:44            SQLSTATE[HY000] [2002] php_network_getaddresses: getaddrinfo failed: Hôte inconnu. 
+28/09/2022 14:47:41            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+28/09/2022 14:47:53            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+28/09/2022 14:48:10            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+28/09/2022 14:50:05            SQLSTATE[HY000] [1045] Accès refusé pour l'utilisateur: ''@'@localhost' (mot de passe: NON)
+11/10/2022 16:20:50            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:12:12            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:15:40            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:15:48            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:18:41            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:18:42            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:18:42            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:18:42            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:18:42            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:18:42            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:18:43            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:18:53            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:18:54            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:20:20            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:58:53            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:58:54            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:58:54            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:59:14            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:59:36            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:59:53            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:59:53            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 15:59:54            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 16:00:25            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 16:00:26            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 16:00:26            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 16:00:26            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 16:01:00            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 16:01:11            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 16:01:23            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 16:01:24            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+12/10/2022 16:01:24            SQLSTATE[HY000] [1049] Base 'todolist' inconnue
+13/12/2022 14:29:57            SQLSTATE[HY000] [2002] Une connexion Ã©tablie a Ã©tÃ© abandonnÃ©e par un logiciel de votre ordinateur hÃ´te.
+

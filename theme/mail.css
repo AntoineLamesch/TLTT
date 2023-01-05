@@ -1,0 +1,14 @@
+body{
+    background-image: url('./images/Chaudron_portel.jpg');
+}
+
+h1{
+    color: white !important;
+    padding-bottom: 125px;
+}
+
+button.btn.btn-lg.btn-primary{
+
+    background-color: #006835;
+    border-color : #006835;
+}

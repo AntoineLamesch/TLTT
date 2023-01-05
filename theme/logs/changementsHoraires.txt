@@ -1,0 +1,11 @@
+08/12/2022 20:02:10    12h-13h30    Erreur lors de l'insertion de la date     Jeudi
+08/12/2022 20:05:26    20h-20h30    Erreur lors de l'insertion de la date     Lundi
+08/12/2022 20:07:49    12h-13h30    Erreur lors de l'insertion de la date     Jeudi
+08/12/2022 20:18:42    21h-21h30    Erreur lors de l'insertion de la date     Lundi
+08/12/2022 21:31:07    05h-06h30    Erreur lors de l'insertion de la date     Lundi
+11/12/2022 09:33:14    0000    Erreur lors de l'insertion de la date     TestTest 
+11/12/2022 09:33:51    20h-20h30    Erreur lors de l'insertion de la date     Mardi
+13/12/2022 13:56:20    20H30-21H30    Erreur lors de l'insertion de la date     Mardi
+13/12/2022 13:56:58    Lupini    Erreur lors de l'insertion de la date     Medi
+13/12/2022 13:57:23    19H00-19H30    Erreur lors de l'insertion de la date     Lundi
+13/12/2022 14:51:37    20H30-21H30    Erreur lors de l'insertion de la date     Mardi

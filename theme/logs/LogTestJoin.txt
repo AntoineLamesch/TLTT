@@ -1,0 +1,35 @@
+04/11/2022 17:58:41    ca passe    ca passe     ca passe
+04/11/2022 18:06:18    ca passe    ca passe     ca passe
+04/11/2022 18:06:46    ca passe    ca passe     ca passe
+04/11/2022 18:07:11    ca passe    ca passe     ca passe
+04/11/2022 18:07:34    ca passe    ca passe     ca passe
+04/11/2022 18:08:12    ca passe    ca passe     ca passe
+04/11/2022 18:10:00    ca passe    ca passe     ca passe
+04/11/2022 18:11:45    ca passe    Array    ca passe
+04/11/2022 18:12:32    ca passe        ca passe
+04/11/2022 18:13:47    ca passe        ca passe
+04/11/2022 18:15:04    ca passe        ca passe
+04/11/2022 18:15:30    ca passe        ca passe
+04/11/2022 18:27:31    ca passe        ca passe
+04/11/2022 18:28:56    ca passe        ca passe
+04/11/2022 18:30:54    ca passe        ca passe
+04/11/2022 18:31:31    ca passe        ca passe
+04/11/2022 18:32:10    ca passe        ca passe
+04/11/2022 18:32:22    ca passe        ca passe
+04/11/2022 18:35:04    ca passe        ca passe
+04/11/2022 18:38:43    ca passe        ca passe
+04/11/2022 18:41:17    ca passe        ca passe
+04/11/2022 18:43:43    ca passe        ca passe
+04/11/2022 18:45:57    ca passe        ca passe
+04/11/2022 18:48:50    ca passe        ca passe
+04/11/2022 18:51:24    ca passe        ca passe
+04/11/2022 18:51:42    ca passe        ca passe
+04/11/2022 18:52:39    ca passe        ca passe
+04/11/2022 18:54:08    ca passe        ca passe
+04/11/2022 19:33:55    ca passe        ca passe
+04/11/2022 19:45:04    ca passe        ca passe
+04/11/2022 20:36:00    ca passe        ca passe
+04/11/2022 20:37:18    ca passe        ca passe
+04/11/2022 20:40:08    ca passe        ca passe
+04/11/2022 20:40:50    ca passe        ca passe
+04/11/2022 20:41:23    ca passe        ca passe
