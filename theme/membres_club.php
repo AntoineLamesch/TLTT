@@ -236,7 +236,7 @@ spl_autoload_register(function ($class_name) {
 
           <ul class="list-unstyled footer-menu lh-35">
             <li><a href="../files/Mentions_légales.pdf" download="Mentions_légales.pdf">Mentions Légales</a></li>
-            <li><a href="contact.html">Aide</a></li>
+            <li><a href="contact.php">Aide</a></li>
             <li><a href="contact.php">Contact</a></li>
           </ul>
         </div>
