@@ -45,11 +45,11 @@ if(!empty($_POST['name'])  && !empty($_POST['email']) && !empty($_POST['message'
     }
     else{
         $_SESSION['message'] = 'Email non valide pour l\'envoie du message à l\'administrateur';
-        header('Location: contact.html');
+        header('Location: contact.php');
     }
 
 } else {
-    header('Location: contact.html');
+    header('Location: contact.php');
     die();
 }
 ?>

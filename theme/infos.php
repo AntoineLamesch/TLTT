@@ -267,7 +267,7 @@ spl_autoload_register(function ($class_name) {
 					<h2 class="mt-2 text-white">C'est ici -></h2>
 				</div>
 				<div class="col-lg-4 text-center text-lg-right mt-4 mt-lg-0">
-					<a href="contact.html" class="btn btn-main btn-round-full">Contactez nous!</a>
+					<a href="contact.php" class="btn btn-main btn-round-full">Contactez nous!</a>
 				</div>
 			</div>
 		</div>
@@ -292,7 +292,7 @@ spl_autoload_register(function ($class_name) {
 
           <ul class="list-unstyled footer-menu lh-35">
             <li><a href="../files/Mentions_légales.pdf" download="Mentions_légales.pdf">Mentions Légales</a></li>
-            <li><a href="contact.html">Aide</a></li>
+            <li><a href="contact.php">Aide</a></li>
             <li><a href="contact.php">Contact</a></li>
           </ul>
         </div>
