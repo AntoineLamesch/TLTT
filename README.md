@@ -1,5 +1,4 @@
 # Megakit By Themefisher
-Test Projet pull 
 
 Megakit is a well-crafted, versatile and unique HTML5 agency template. Its wonderful features can be used to enhance the websites of IT firms, digital agencies, and creative professionals.
 
