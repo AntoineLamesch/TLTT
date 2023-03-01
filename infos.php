@@ -354,7 +354,7 @@ spl_autoload_register(function ($class_name) {
 
 
 <!-- 
-Essential Scripts
+Essential Script
 =====================================-->
 <!-- Main jQuery -->
 <script src="plugins/jquery/jquery.min.js"></script>
